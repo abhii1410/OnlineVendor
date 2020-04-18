@@ -17,7 +17,7 @@ export default class Header extends Component {
                             <li className="dropdown messages-menu">
                                 <a href="#" className="dropdown-toggle" data-toggle="dropdown">
                                     <i className="fa fa-envelope-o"></i>
-                                    <span className="label label-success">4</span>
+                                    <span className="label label-success">5</span>
                                 </a>
                                 <ul className="dropdown-menu">
                                     <li className="header">You have 4 messages</li>
