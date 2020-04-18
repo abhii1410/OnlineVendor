@@ -81,12 +81,6 @@ export class login extends Component {
            
           </form>
 
-
-          <a href="#">I forgot my password</a>
-          <br />
-          <a href="register.html" className="text-center">
-            Register a new membership
-          </a>
         </div>
         </div>
       </React.Fragment>

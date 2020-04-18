@@ -13,7 +13,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.css'
 // , document.getElementById('root'));
 ReactDOM.render(
     
-    <Route />
+    <App />
     
     , document.getElementById('root'));
 
